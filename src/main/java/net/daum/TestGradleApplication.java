@@ -10,6 +10,7 @@ public class TestGradleApplication {
 		SpringApplication.run(TestGradleApplication.class, args);
 		System.out.println("hi~");
 		System.out.println("hi2~");
+		System.out.println("BM~");
 	}
 
 }
